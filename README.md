@@ -1,5 +1,7 @@
 # ML-Live-Class
 Machine Learning Datasets implementation Step by step
+
+# Commands Used
 conda env list
 mkdir utils
 touch utils/__init__.py #to treat utility as a package
